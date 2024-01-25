@@ -1,13 +1,22 @@
-div.content {
-    
-    border: solid grey;
-    margin-right: 80%;
+div {
+    margin: ;
 
+
+}
+
+
+ul {
+    display: table;
+    margin:  auto;
+    border: solid grey;
+    width: 300px;
+
+    
 }
 
 h1{
 
-    
+    text-align: center;
     
 
 
