@@ -2,15 +2,20 @@ ul {
     display: table;
     margin:  auto;
     border: solid grey;
-    width: 300px;
-
-    
+    width: 13%;
 }
 
 h1{
-
     text-align: center;
-    
+}
 
+p{
+    font-size: xx-small;
+    text-align: center;
 
 }
+
+img{
+    display:block;
+    margin:auto;
+    }

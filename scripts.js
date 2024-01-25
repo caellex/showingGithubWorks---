@@ -7,15 +7,12 @@ function showList() {
 blankAll();
 document.getElementById('content').innerHTML = /*HTML*/ `
 <ul>
-<li>en</li>
-<li>to</li>
-<li>tre</li>
-<li>fire</li>
+<li>En</li>
+<li>To</li>
+<li>Tre</li>
+<li>Fire</li>
 </ul>
 
-
-
+<img src="img/cat.gif">
 `
-
-
 }
